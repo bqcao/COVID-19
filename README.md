@@ -4,4 +4,6 @@ Interested in learning covid-19, especially its genetic mutation strategies, its
 # Plan
 ## Simulate the docking behavior of Spike protein (https://www.ncbi.nlm.nih.gov/protein/QHD43416/)
 
+Protein complex: https://zhanglab.ccmb.med.umich.edu/COVID-19/
+
 
